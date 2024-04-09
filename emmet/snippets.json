@@ -1,0 +1,7 @@
+{
+    "css": {
+        "snippets":{
+            "bord" : "border: 1px solid red;"
+        }
+    }
+}

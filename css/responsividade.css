@@ -80,7 +80,7 @@
         text-align: center;
     }
 
-    .linkedin{
+    .linkedin>p{
     line-break: anywhere;
     }
 }

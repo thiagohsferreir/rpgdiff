@@ -79,4 +79,8 @@
     .mensagem{
         text-align: center;
     }
+
+    .linkedin{
+    line-break: normal;
+    }
 }
